@@ -2,8 +2,6 @@
 
 BrainWavr is a Streamlit application that transforms online articles into professional-sounding podcasts with just a few clicks. Using AI technology, it summarizes article content and recreates it in the natural speaking style of your chosen virtual host.
 
-![BrainWavr Logo](images/logo.png)
-
 ## Features
 
 - **Instant Podcast Generation**: Convert any online article into a podcast with a single click
